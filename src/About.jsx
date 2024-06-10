@@ -1,0 +1,1 @@
+function About(){ return(<div style={{color: "white"}}>ABOUT PAGE</div>) } export default About;
