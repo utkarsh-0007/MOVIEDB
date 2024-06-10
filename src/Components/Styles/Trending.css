@@ -1,0 +1,29 @@
+.trending{
+    height:       350px;
+    width:        100vw;
+    color: white;
+    box-sizing: border-box;
+}
+.tbox{
+
+    /* height:      50%;
+    width:        100%; */
+
+
+
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+    /* background-color: azure; */
+    
+}
+.tbox1{
+
+    border-radius: 25px;
+    background-color: aqua;
+    height:           281px;
+    width:            500px;
+}
